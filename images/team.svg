@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 120">
+  <defs><style>.p{fill:#2a9d8f;} .b{fill:#ff6f61;} .l{stroke:#05204a;stroke-width:2;fill:none}</style></defs>
+  <circle cx="60" cy="80" r="20" class="p"/>
+  <circle cx="140" cy="80" r="20" class="p"/>
+  <circle cx="220" cy="80" r="20" class="p"/>
+  <rect x="50" y="40" width="200" height="10" class="l"/>
+  <text x="150" y="115" font-size="12" fill="#05204a" text-anchor="middle">Team</text>
+</svg>

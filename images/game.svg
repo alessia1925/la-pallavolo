@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 120">
+  <defs><style>.court{fill:#f6f3ea;stroke:#e07a5f;stroke-width:4} .p{fill:#2a9d8f;} .ball{fill:#ff6f61;} .l{stroke:#05204a;stroke-width:2;fill:none}</style></defs>
+  <rect x="0" y="0" width="300" height="120" class="court" rx="8"/>
+  <circle cx="70" cy="60" r="10" class="p"/>
+  <circle cx="230" cy="60" r="10" class="p"/>
+  <circle cx="150" cy="30" r="8" class="ball"/>
+  <line x1="70" y1="60" x2="150" y2="30" class="l"/>
+  <line x1="230" y1="60" x2="150" y2="30" class="l"/>
+  <text x="150" y="110" font-size="14" fill="#05204a" text-anchor="middle">Partita in corso</text>
+</svg>

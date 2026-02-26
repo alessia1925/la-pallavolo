@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200">
+  <defs>
+    <style> .bg{fill:#fff6f0} .icon{fill:#ff6f61} .label{fill:#05204a;font-size:14px;font-family:Arial}</style>
+  </defs>
+  <rect width="600" height="200" class="bg" rx="12"/>
+  <g transform="translate(30,30)">
+    <circle cx="40" cy="40" r="30" class="icon"/>
+    <text x="40" y="86" text-anchor="middle" class="label">Servizio</text>
+  </g>
+  <g transform="translate(210,30)">
+    <rect x="10" y="10" width="60" height="60" rx="10" class="icon"/>
+    <text x="40" y="86" text-anchor="middle" class="label">Ricezione</text>
+  </g>
+  <g transform="translate(390,30)">
+    <polygon points="40,10 70,70 10,70" class="icon"/>
+    <text x="40" y="86" text-anchor="middle" class="label">Schiacciata</text>
+  </g>
+</svg>
